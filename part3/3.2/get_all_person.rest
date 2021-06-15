@@ -1,0 +1,5 @@
+GET http://localhost:3001/api/persons/
+
+### POST http://localhost:3001/api/persons/ content-type: application/json
+
+{ "id": 2, "name": "Bhanu", "number": 8074151531 }
